@@ -1,0 +1,9 @@
+24/1/18
+xml/text - read from file for url(done),app name(done), icon image
+remove action bar(done)
+app icon to resize depending on screen resolution and screen size
+
+** try to put version number somewhere(done)
+
+
+android 5.0 onwards works (lollipop onwards)
