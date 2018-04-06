@@ -7,3 +7,5 @@ app icon to resize depending on screen resolution and screen size
 
 
 android 5.0 onwards works (lollipop onwards)
+
+testing for git
